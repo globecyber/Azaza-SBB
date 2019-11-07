@@ -1,8 +1,6 @@
 # Malware Analysis Report (Azaza-SBB)
-The goal of this report is to provide actionable intelligence regarding threat actors and the malware or other tools they use for reconnaissance, delivery, exploitation, and so forth in order for security operations (SecOps) teams to be empowered to more quickly detect and respond to this specific threat. 
 
-In the case of a victim of this malware, this analysis can be used to understand the impact of the malware (e.g., what damage it may have done, lateral movement, data exfiltration, credential gathering, etc.). We also share this intelligence back to
-the community to assist other researchers in their analysis of the same malware.
+In the case of a victim of this malware, this analysis can be used to understand the impact of the malware (e.g., what damage it may have done, lateral movement, data exfiltration, credential gathering, etc.).
 
 This threat intelligence report is based on analysis from the GlobeCyber team in which we examine details of malware may known as “SBB”
 
